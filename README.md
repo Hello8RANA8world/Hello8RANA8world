@@ -14,9 +14,11 @@
 - Full-stack system development project
 - Advanced programming and database skills
 
-### 🎯 [EduSync - Smart School Platform]()
-**4th Place - Vodafone Code Like A Girl 2024** 
-- School management platform (add repository when ready)
+### 💧 [Smart Water Monitoring System](https://github.com/Hello8RANA8world/Smart-water-monitoring-and-filtering-system)
+**IoT Water Quality Management**
+- Real-time pH, TDS, and turbidity monitoring
+- Mobile app with sensor data and calibration
+- Automated filtration control system
 
 ## 💻 Tech Skills
 ```python
